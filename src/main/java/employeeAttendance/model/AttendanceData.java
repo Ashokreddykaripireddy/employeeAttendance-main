@@ -12,7 +12,7 @@ public class AttendanceData {
 	public String address;
 	public long id;
 
-    
+     
     
 	public AttendanceData() {}
 
