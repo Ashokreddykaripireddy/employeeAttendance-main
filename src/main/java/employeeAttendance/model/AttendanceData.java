@@ -7,10 +7,10 @@ public class AttendanceData {
 	
     public  String firstNamee;
     public int phone;
-    public String   date;  
+    public String   date;   
     public boolean present;
 	public String address;
-	public long id;
+	public long id; 
 
      
     
